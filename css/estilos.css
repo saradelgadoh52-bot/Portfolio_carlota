@@ -429,7 +429,7 @@ h1, h2, h3 {
 /* CONTACTO */
 
 .contacto {
-    background-color: #f6f1ea;
+    background-color: #ECECEC;
 }
 
 .datos-contacto {
@@ -493,7 +493,7 @@ h1, h2, h3 {
 /* FOOTER */
 
 footer {
-    background-color: #171717;
+    background-color: #007D9A;
     color: #f6f1ea;
     display: flex;
     justify-content: space-between;
