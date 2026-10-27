@@ -302,7 +302,7 @@ h1, h2, h3 {
 }
 
 .portfolio .titulo-seccion {
-    color: #d35400;
+    color: #ECECEC;
 }
 
 .portfolio h2 {
@@ -494,6 +494,10 @@ h1, h2, h3 {
 
 .formulario button:hover {
     background-color: #d35400;
+}
+
+.servicios .titulo-seccion {
+    color: #007D9A;
 }
 
 
